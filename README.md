@@ -1,4 +1,5 @@
-# RegressionForecaster
+RegressionForecaster
+
 GUI shell for AR, multiple regression, ARMA, ARMAX, ARIMA, trend models.
 
 Find sample input files in "Samples/" folder.
