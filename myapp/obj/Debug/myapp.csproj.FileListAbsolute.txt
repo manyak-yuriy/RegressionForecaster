@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\User\Desktop\Code Jam\A\myapp\myapp\obj\Debug\myapp.pdb
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.pdb
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\Desktop\Bachelor's thesis\Project\myapp\myapp\obj\Debug\myapp.Form2.resources
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\bin\Debug\myapp.exe.config
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.csproj.ResolveComReference.cache
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.exe
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.pdb
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\bin\Debug\myapp.exe
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\bin\Debug\myapp.pdb
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\bin\Debug\MathNet.Numerics.dll
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\bin\Debug\MathNet.Numerics.xml
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.Form1.resources
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.Form2.resources
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.Properties.Resources.resources
+D:\Archive\8 semester\Bachelor\Bachelor's thesis\Project\fake\myapp\obj\Debug\myapp.csproj.GenerateResource.Cache
