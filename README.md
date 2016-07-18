@@ -1,4 +1,4 @@
 # GraduationProject
-GUI shell for AR, ARMA, ARMAX, ARIMA, trend models.
+GUI shell for AR, multiple regression, ARMA, ARMAX, ARIMA, trend models.
 
 Find sample input files in "Sample/" folder.
