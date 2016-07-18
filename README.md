@@ -1,4 +1,6 @@
-RegressionForecaster
+#RegressionForecaster
+
+App was built as a part of [author's] (https://github.com/manyak-yuriy/) graduation thesis.
 
 GUI shell for AR, multiple regression, ARMA, ARMAX, ARIMA, trend models.
 
